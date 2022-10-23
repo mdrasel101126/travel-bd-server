@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "category":"Single Room",
+        "rating":"4.5",
+        "details":"The meaning of ROOM is an extent of space occupied by or sufficient or available for something. How to use room in a sentence.",
+        "picture":"https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id":2,
+        "category":"Double Room",
+        "rating":"4",
+        "details":"The meaning of ROOM is an extent of space occupied by or sufficient or available for something. How to use room in a sentence.",
+        "picture":"https://images.unsplash.com/photo-1631049307264-da0ec9d70304?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id":3,
+        "category":"Family Room",
+        "rating":"5",
+        "details":"The meaning of ROOM is an extent of space occupied by or sufficient or available for something. How to use room in a sentence.",
+        "picture":"https://images.unsplash.com/photo-1590490360182-c33d57733427?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]
